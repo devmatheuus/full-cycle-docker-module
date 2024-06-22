@@ -1,0 +1,1 @@
+GO DOCKER IMAGE: devmatheuus/fullcycle:latest
